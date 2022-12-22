@@ -1,0 +1,2323 @@
+fileFormatVersion: 2
+guid: 2d1252e0da2f5644f9bc2163729c22d3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: normal card_0
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 12449
+        width: 717
+        height: 1023
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58aea1f0a9427d478c76008556ff841
+      internalID: 939547791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_1
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 12443
+        width: 713
+        height: 1029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec4825bacfa08c459493003bb68b786
+      internalID: -2002433854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_2
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 12443
+        width: 716
+        height: 1029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40a97be61f60234b8f1209aaf3061bf
+      internalID: 1867588473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_3
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 12443
+        width: 704
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860fecd983b2e394aa9cc10dbd8d927d
+      internalID: -234545527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_4
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 12443
+        width: 710
+        height: 1029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea902ce25f015c4483f1d4b62cdba40
+      internalID: -1876038127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_5
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 12444
+        width: 707
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6ab28a053dfa34c968f58be564896f
+      internalID: -9300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_6
+      rect:
+        serializedVersion: 2
+        x: 5937
+        y: 12443
+        width: 711
+        height: 1029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1384c58db3d69c4097bd47066a51d3e
+      internalID: 1731142341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_7
+      rect:
+        serializedVersion: 2
+        x: 6654
+        y: 12443
+        width: 717
+        height: 1029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed66b719c1b615459a324987b65fb51
+      internalID: 1566109357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_8
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 11403
+        width: 717
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d907e6e41cabfc74581bd1030d7c4ca0
+      internalID: -1334457751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_9
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 11403
+        width: 713
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1a7fc2ca563fd4291fc8b9ac43c07a
+      internalID: 91553599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_10
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 11397
+        width: 716
+        height: 1039
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3099baaac50f3f439103e14144b4480
+      internalID: 1467375374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_11
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 11402
+        width: 707
+        height: 1022
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229e8cf65530d7e4b84d79cc44c496e4
+      internalID: 1577390668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_12
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 11397
+        width: 710
+        height: 1032
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd81bf50412d1fb41a971f98a730fa74
+      internalID: 1952336095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_13
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 11399
+        width: 701
+        height: 1025
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33d9201b534410409791a8d3ea1c49b
+      internalID: 1346469787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_14
+      rect:
+        serializedVersion: 2
+        x: 5937
+        y: 11397
+        width: 711
+        height: 1032
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb161e7e8cfb4a419bd9070a00370be
+      internalID: 586922911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_15
+      rect:
+        serializedVersion: 2
+        x: 6654
+        y: 11397
+        width: 717
+        height: 1032
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133b8a7896d3f3f49b1bf2ecd2aa0da4
+      internalID: 903739828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_16
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 10357
+        width: 717
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71a59be652c3044a818bf389bf92d69
+      internalID: 1380495551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_17
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 10357
+        width: 713
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7115aef9a30e64887643d9e595046e
+      internalID: 163954032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_18
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 10357
+        width: 716
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f439d0a8ea175b4a8879a957a04eb70
+      internalID: 493597454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_19
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 10362
+        width: 707
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de66e54f4bbd96947832c0494b457a72
+      internalID: -1764596430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_20
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 10351
+        width: 710
+        height: 1032
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38c0370224a2da479e4bed1b93713db
+      internalID: 1216536153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_21
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 10356
+        width: 707
+        height: 1022
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1c8dc849996d14eb55bcb28e9bbd6f
+      internalID: -1868159115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_22
+      rect:
+        serializedVersion: 2
+        x: 5937
+        y: 10351
+        width: 711
+        height: 1032
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebb78fb5bba41c469c03c4042be361c
+      internalID: 315375889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_23
+      rect:
+        serializedVersion: 2
+        x: 6654
+        y: 10351
+        width: 717
+        height: 1032
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb223529af1b2e46a394b1cae65ecd7
+      internalID: -1605584263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_24
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 9311
+        width: 717
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ca8caf23b9fe642ac433a11f00aca8
+      internalID: -508745847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_25
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 9311
+        width: 713
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c2a3af931e01d4b9fa9a652079e500
+      internalID: -1385650482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_26
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 9311
+        width: 716
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236e7bc1b9f38c84db3463c9fe2d5116
+      internalID: -106686833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_27
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 9313
+        width: 707
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c12dd7d3e9d6947903b2fd3f2a0caf
+      internalID: -1691265396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_28
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 9310
+        width: 707
+        height: 1022
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ec4cf4ffaa08b4c8203e2c93973ad7
+      internalID: -20937925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_29
+      rect:
+        serializedVersion: 2
+        x: 5937
+        y: 9305
+        width: 711
+        height: 1032
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bcb4ff78aff1e45a667aea6228ebab
+      internalID: -1592906911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_30
+      rect:
+        serializedVersion: 2
+        x: 6654
+        y: 9305
+        width: 717
+        height: 1032
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc12da23cf8562e44ba6cfdf5400b897
+      internalID: -2114782940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_31
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 8266
+        width: 717
+        height: 1037
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d46771642fa554abcb2fc1f4d2a9aa
+      internalID: -281712643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_32
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 8266
+        width: 713
+        height: 1032
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c3bcfae8b12e04e8cfb704d610cc63
+      internalID: -1598728917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_33
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 8265
+        width: 716
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac336c337d3e2fc439fd8c7b389bb723
+      internalID: 221761305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_34
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 8267
+        width: 707
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2964be675f1874e8faa10f3e81fe3c
+      internalID: 849974329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_35
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 8259
+        width: 716
+        height: 1037
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f2b0622f7725f4dac693657e93d4d9
+      internalID: 1486464928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_36
+      rect:
+        serializedVersion: 2
+        x: 4497
+        y: 8267
+        width: 716
+        height: 1023
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bd4fd90bef7244292db2fab07a7c09
+      internalID: 1912696655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_37
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 7226
+        width: 717
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5d6128ade5d4c438edd6bc0d4e094e
+      internalID: 775295796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_38
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 7220
+        width: 713
+        height: 1038
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bf38dcab346dc48b7a5c92be62ff53
+      internalID: -1803854918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_39
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 7220
+        width: 716
+        height: 1032
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8a860f9a459134e82838b0d805fc11
+      internalID: 940381506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_40
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 7224
+        width: 707
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca879c537b131e149b809b2d307d10c6
+      internalID: 917458237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_41
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 7220
+        width: 710
+        height: 1032
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18871cc31ea9fe438639dc183a7ed00
+      internalID: 1022405970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_42
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 7221
+        width: 707
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b740c16005a48642ac77e3304310d8f
+      internalID: -1989422294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_43
+      rect:
+        serializedVersion: 2
+        x: 5937
+        y: 7220
+        width: 711
+        height: 1032
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94e70043f49c3f44945b7c0cf08ccff
+      internalID: 1993877784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_44
+      rect:
+        serializedVersion: 2
+        x: 6654
+        y: 7220
+        width: 717
+        height: 1032
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ac287735ae5b04e8aca44baafb2da4
+      internalID: -1985909274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_45
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 5477
+        width: 1434
+        height: 1039
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb0bf67d3ce12a46aab847311065364
+      internalID: 205771932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_46
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 5477
+        width: 719
+        height: 1039
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a951a5e94d4d667448949373bbf86773
+      internalID: 390199801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_47
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 5470
+        width: 2151
+        height: 1046
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183bd7140f819c64b88dc9ea80ee16b7
+      internalID: -1989350750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_48
+      rect:
+        serializedVersion: 2
+        x: 4497
+        y: 5470
+        width: 2154
+        height: 1039
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a19f0b7c9e5514eb8d23df508b8617
+      internalID: -1538300351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_49
+      rect:
+        serializedVersion: 2
+        x: 6654
+        y: 5470
+        width: 717
+        height: 1039
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e632027a2a1248439a3cf40f66ee588
+      internalID: -10586749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_50
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 4437
+        width: 717
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce24eac8443060443b597ed8034f31bd
+      internalID: -1582640033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_51
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 4437
+        width: 716
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92934542f7b780b42aa39807bf8d4da9
+      internalID: 1925047995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_52
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 4437
+        width: 1437
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee655799f7c6d724aa54f0413536a89f
+      internalID: -1610652768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_53
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 4437
+        width: 717
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593a3476ae365bb41a213302d319f943
+      internalID: 368824379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_54
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 4430
+        width: 716
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c08fa97ccc4ee6489ef2260331c9a57
+      internalID: 1034357390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_55
+      rect:
+        serializedVersion: 2
+        x: 4497
+        y: 4430
+        width: 1437
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ee1318fae53dc418110e611809a8bc
+      internalID: -1571367212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_56
+      rect:
+        serializedVersion: 2
+        x: 5937
+        y: 4430
+        width: 1434
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fded65c392ad6438c2f08ef8ff0f11
+      internalID: -244391245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_57
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 3391
+        width: 717
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf3718b92d4f0a4faf433061259a925
+      internalID: -1002236132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_58
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 3391
+        width: 1434
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cfa67ac22155b46bf6016881b95f37
+      internalID: 1787123678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_59
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 3385
+        width: 1434
+        height: 1039
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26583e4432c505d42b8494a50d2cee53
+      internalID: 1458238363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_60
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 3385
+        width: 716
+        height: 1039
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e9868191ac07245b09569fed1f68f8
+      internalID: -2131911957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_61
+      rect:
+        serializedVersion: 2
+        x: 4497
+        y: 3385
+        width: 717
+        height: 1039
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa278689e5cb8444a0eab75710ab6db
+      internalID: 148772239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_62
+      rect:
+        serializedVersion: 2
+        x: 5220
+        y: 3385
+        width: 1434
+        height: 1039
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c2b569fe8d8eb478669913f1414d2c
+      internalID: 29325606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_63
+      rect:
+        serializedVersion: 2
+        x: 6655
+        y: 3384
+        width: 716
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e4622983a119e4a910212c557a6e9b
+      internalID: -2086853711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_64
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2345
+        width: 717
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae53da634bb69624585800793078ca1d
+      internalID: 926958748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_65
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 2345
+        width: 716
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb569b578ec60c4582d9b73383fc8ad
+      internalID: 2145909614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_66
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 2345
+        width: 717
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48471bf56d18f224b9117a387658824c
+      internalID: 118968842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_67
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 2345
+        width: 1434
+        height: 1039
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74a8a399174eab499c0b41713936bd3
+      internalID: -2091408045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_68
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 2339
+        width: 716
+        height: 1032
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac80bbc54802344d9d305573cdefcdb
+      internalID: -1409905079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_69
+      rect:
+        serializedVersion: 2
+        x: 4497
+        y: 2339
+        width: 1437
+        height: 1039
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d161a8d57e612d4aa45200fff58cd88
+      internalID: -1433699451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_70
+      rect:
+        serializedVersion: 2
+        x: 5937
+        y: 2345
+        width: 717
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9493df4cce74e004690f1db6d8c1d20d
+      internalID: 661113594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_71
+      rect:
+        serializedVersion: 2
+        x: 6655
+        y: 2339
+        width: 716
+        height: 1032
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a655fe04f3bbf5d4bb8acd380c5b8737
+      internalID: -189126054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_72
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1299
+        width: 717
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b8b30c5dc0319489534f0829693534
+      internalID: -60168778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_73
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1299
+        width: 2154
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b95d216b1987345a649f3d9e3aee8b
+      internalID: 751713129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_74
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 1293
+        width: 717
+        height: 1039
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c1d67d3b43a7840bb2ebd8e78abcb1
+      internalID: 1162919848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_75
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1293
+        width: 716
+        height: 1039
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39a333df26506742b6f98c6a374b2b0
+      internalID: -351204356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_76
+      rect:
+        serializedVersion: 2
+        x: 4497
+        y: 1293
+        width: 1437
+        height: 1039
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc45ca72b288f84a91c6b7bcb743009
+      internalID: 990610310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_77
+      rect:
+        serializedVersion: 2
+        x: 5937
+        y: 1293
+        width: 717
+        height: 1039
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef64cde369974044b69b6e79d85a310
+      internalID: 230746172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_78
+      rect:
+        serializedVersion: 2
+        x: 6655
+        y: 1290
+        width: 716
+        height: 1035
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0f50f8dd6e10f41a86f5ceed742bb7
+      internalID: 65259631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_79
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 260
+        width: 717
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d0cbca2bd8d6047bc2902060172aa8
+      internalID: -814813171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_80
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 7163
+        height: 1286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38749aa82b719d04f96d6ad89e1bb7e0
+      internalID: 1761351647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_81
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 260
+        width: 716
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7821d9d79f68b4c902069f00c83218
+      internalID: -1395280466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_82
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 260
+        width: 1434
+        height: 1033
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8537dc5fc7aedd49ae77627485100ed
+      internalID: 735887300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_83
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 253
+        width: 1434
+        height: 1039
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b4f49a01448d84f89119aeb7aca9e8
+      internalID: -1461548811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_84
+      rect:
+        serializedVersion: 2
+        x: 4497
+        y: 253
+        width: 1434
+        height: 1039
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f61fc2aba95ae41940eaa00e1a49b2
+      internalID: 1129618040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_85
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 12443
+        width: 700
+        height: 1029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2f3f4f0a4d94741846c64d624c5e19
+      internalID: 150921294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_86
+      rect:
+        serializedVersion: 2
+        x: 5220
+        y: 12444
+        width: 706
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2746124d01c7f4ba565cfe831080ef
+      internalID: 1803528327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_87
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 11402
+        width: 705
+        height: 1025
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb3458c95ec4ab478cb1189db74ff35
+      internalID: -1106413390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_88
+      rect:
+        serializedVersion: 2
+        x: 5220
+        y: 11399
+        width: 706
+        height: 1025
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c008d846dd7ae4985f7833c8eeaaa3
+      internalID: 1190156308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_89
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 10356
+        width: 707
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e051378de0b174e80241a229ffa7f9
+      internalID: -1262356058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_90
+      rect:
+        serializedVersion: 2
+        x: 5220
+        y: 10356
+        width: 706
+        height: 1025
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce40f9988384ce479ded4a5fb82b60e
+      internalID: -1981714060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_91
+      rect:
+        serializedVersion: 2
+        x: 5220
+        y: 9310
+        width: 706
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9939e055ae7351349b0b47fdeae57eb8
+      internalID: 1234603708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_92
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 8267
+        width: 707
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4720fe5e32d14934899ca92e215d2704
+      internalID: -762447691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_93
+      rect:
+        serializedVersion: 2
+        x: 5211
+        y: 8267
+        width: 720
+        height: 1023
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5065b0316d0f242a15cb5fa7e1ba33
+      internalID: -1980889928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_94
+      rect:
+        serializedVersion: 2
+        x: 5936
+        y: 8267
+        width: 718
+        height: 1023
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30f080c638b56f41947c4f34bbf7d50
+      internalID: 1085952889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_95
+      rect:
+        serializedVersion: 2
+        x: 6646
+        y: 8267
+        width: 724
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4049e49711e2df24abcfc88b7347cf1d
+      internalID: 963437736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_96
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 7221
+        width: 706
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3941ee41602af5b448479741f1814979
+      internalID: -161846662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_97
+      rect:
+        serializedVersion: 2
+        x: 5220
+        y: 7221
+        width: 706
+        height: 1026
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa19bbd9203f0c14bace7edb8766cbc2
+      internalID: 386617974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_98
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 9313
+        width: 701
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a75c9e30652784894b03293721c00d
+      internalID: 961442292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal card_99
+      rect:
+        serializedVersion: 2
+        x: 3775
+        y: 9310
+        width: 713
+        height: 1026
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b012ee49afb917468c9b1495097beb9
+      internalID: -26949658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      normal card_85: 150921294
+      normal card_50: -1582640033
+      normal card_3: -234545527
+      normal card_87: -1106413390
+      normal card_59: 1458238363
+      normal card_5: -9300044
+      normal card_37: 775295796
+      normal card_72: -60168778
+      normal card_22: 315375889
+      normal card_36: 1912696655
+      normal card_78: 65259631
+      normal card_84: 1129618040
+      normal card_74: 1162919848
+      normal card_82: 735887300
+      normal card_62: 29325606
+      normal card_68: -1409905079
+      normal card_33: 221761305
+      normal card_26: -106686833
+      normal card_65: 2145909614
+      normal card_67: -2091408045
+      normal card_86: 1803528327
+      normal card_7: 1566109357
+      normal card_16: 1380495551
+      normal card_63: -2086853711
+      normal card_88: 1190156308
+      normal card_9: 91553599
+      normal card_29: -1592906911
+      normal card_15: 903739828
+      normal card_13: 1346469787
+      normal card_8: -1334457751
+      normal card_97: 386617974
+      normal card_0: 939547791
+      normal card_61: 148772239
+      normal card_12: 1952336095
+      normal card_42: -1989422294
+      normal card_91: 1234603708
+      normal card_23: -1605584263
+      normal card_93: -1980889928
+      normal card_83: -1461548811
+      normal card_79: -814813171
+      normal card_20: 1216536153
+      normal card_53: 368824379
+      normal card_69: -1433699451
+      normal card_73: 751713129
+      normal card_60: -2131911957
+      normal card_81: -1395280466
+      normal card_90: -1981714060
+      normal card_95: 963437736
+      normal card_71: -189126054
+      normal card_76: 990610310
+      normal card_55: -1571367212
+      normal card_66: 118968842
+      normal card_41: 1022405970
+      normal card_44: -1985909274
+      normal card_98: 961442292
+      normal card_52: -1610652768
+      normal card_58: 1787123678
+      normal card_54: 1034357390
+      normal card_64: 926958748
+      normal card_51: 1925047995
+      normal card_17: 163954032
+      normal card_35: 1486464928
+      normal card_14: 586922911
+      normal card_56: -244391245
+      normal card_25: -1385650482
+      normal card_38: -1803854918
+      normal card_45: 205771932
+      normal card_32: -1598728917
+      normal card_28: -20937925
+      normal card_89: -1262356058
+      normal card_30: -2114782940
+      normal card_94: 1085952889
+      normal card_80: 1761351647
+      normal card_96: -161846662
+      normal card_21: -1868159115
+      normal card_48: -1538300351
+      normal card_1: -2002433854
+      normal card_18: 493597454
+      normal card_34: 849974329
+      normal card_92: -762447691
+      normal card_43: 1993877784
+      normal card_70: 661113594
+      normal card_77: 230746172
+      normal card_19: -1764596430
+      normal card_2: 1867588473
+      normal card_31: -281712643
+      normal card_57: -1002236132
+      normal card_47: -1989350750
+      normal card_46: 390199801
+      normal card_49: -10586749
+      normal card_24: -508745847
+      normal card_4: -1876038127
+      normal card_40: 917458237
+      normal card_99: -26949658
+      normal card_10: 1467375374
+      normal card_6: 1731142341
+      normal card_11: 1577390668
+      normal card_27: -1691265396
+      normal card_39: 940381506
+      normal card_75: -351204356
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
